@@ -6,3 +6,9 @@ yajrabox.com added
 docs.laravel-excel.com added for version 3.1
 www.markdownguide.org added
 Laravel 6.20.1 + yajra-datatables + maatwebsite-phpexcel + vue.js npm + vuex npm
+
+<br>
+2021-11-30
+Added octobercms.com and verdaccio.org forked sites.
+Laravel-Vue-Spa-4.5.0(Laravel 6 Version)
+October-CMS
