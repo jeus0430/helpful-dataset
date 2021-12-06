@@ -12,3 +12,6 @@ Laravel 6.20.1 + yajra-datatables + maatwebsite-phpexcel + vue.js npm + vuex npm
 Added octobercms.com and verdaccio.org forked sites.
 Laravel-Vue-Spa-4.5.0(Laravel 6 Version)
 October-CMS
+
+2021-12-06
+laravel-mix.com fork for all versions
