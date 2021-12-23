@@ -15,3 +15,8 @@ October-CMS
 
 2021-12-06
 laravel-mix.com fork for all versions
+
+2021-12-23
+voyager
+satisfy
+laravel-admin
