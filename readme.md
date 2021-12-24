@@ -20,3 +20,4 @@ laravel-mix.com fork for all versions
 voyager
 satisfy
 laravel-admin
+v3.vuejs.org
