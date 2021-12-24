@@ -21,3 +21,7 @@ voyager
 satisfy
 laravel-admin
 v3.vuejs.org
+
+2021-12-24
+monica added It is well working now.
+for redis extension, added ext-redis.dll into 7z file.
