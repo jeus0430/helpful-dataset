@@ -31,3 +31,7 @@ for redis extension, added ext-redis.dll into 7z file.
 element
 monica
 antd
+
+**2022-01-25**
+caspia/seekoff
+next.vuex.vuejs = vuex.vuejs
