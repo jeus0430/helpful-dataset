@@ -38,3 +38,6 @@ next.vuex.vuejs = vuex.vuejs
 
 2021-01-26
 verdaccio 5.51
+
+2021-02-04
+vuetify
