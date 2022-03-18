@@ -41,3 +41,6 @@ verdaccio 5.51
 
 2021-02-04
 vuetify
+
+2021-03-19
+atlassian-agent
